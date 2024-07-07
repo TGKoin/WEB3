@@ -4,7 +4,7 @@ import telebot
 TOKEN = '7042638042:AAEUuqWYxiVJ8M5OThIZd3hPQ0g_CuGF3Yk'
 
 # URL на вашу веб-страницу
-WEBPAGE_URL = 'https://yourdomain.com'
+WEBPAGE_URL = 'https://tgkoin.github.io/'
 
 # Создание экземпляра бота
 bot = telebot.TeleBot(TOKEN)
